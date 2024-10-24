@@ -1,0 +1,23 @@
+.form-div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-div h1 {
+    color: #015501;
+    letter-spacing: 0.1em;
+}
+
+.custom-btn {
+    background-color: #006400;
+}
+
+.custom-btn:hover {
+    background-color: #015501;
+}
+
+.custom-btn:active {
+    background-color: #006400;
+    transform: scale(0.98);
+}

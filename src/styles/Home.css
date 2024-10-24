@@ -1,0 +1,14 @@
+.custom-btn {
+    background-color: #006400;
+    border: none;
+}
+
+.custom-btn:hover {
+    background-color: #015501;
+}
+
+.custom-btn:active {
+    background-color: #006400;
+    transform: scale(2);
+    transition: 0.08s;
+}
